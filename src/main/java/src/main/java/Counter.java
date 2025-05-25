@@ -8,7 +8,7 @@ public class Counter {
 		this.reset();
 	}
 		
-	public void reset() {
+	public void Reset() {
 		count = 0;
 	}
 	
